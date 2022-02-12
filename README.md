@@ -58,7 +58,7 @@ O dockerfile é um arquivo simples de texto puro usado para construir automatica
 
 
 
-** Estágio 1 - Construindo uma imagem Node **
+**Estágio 1 - Construindo uma imagem Node**
 
 Para a construção da imagem Node, foi utilizado a distribuição **Alpine**, visto que, foi criada especificamente pra uma imagem do Docker e, dessa maneira, o consumo do espaço em disco é significativamente menor do que outras imagens. O comando **as** cria um apelido para a imagem, o apelido apenas facilita o seu uso em instruções posteriores.  
 
