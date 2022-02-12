@@ -305,6 +305,6 @@ Marlon Brendo Ramos – [github/MarlonBrendonx](https://github.com/MarlonBrendon
 * **Node** https://hub.docker.com/_/node - Official build of Node <br/>
 * **Nginx** https://hub.docker.com/_/nginx - Official build of Nginx <br/>
 * **React** https://create-react-app.dev/docs/getting-started - Get Started with React <br/> 
-* **Docker* https://www.docker.com/get-started - Get Started with Docker <br/>
+* **Docker** https://www.docker.com/get-started - Get Started with Docker <br/>
 
 
