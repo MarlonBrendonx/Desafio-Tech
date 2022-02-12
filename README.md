@@ -280,7 +280,7 @@ A saída deverá ser algo parecido com a imagem abaixo. Caso haja alguns WARN ge
 Para rodar o ambiente em background, apenas execute
 
 ```
-sudo docker-compose up -d
+docker-compose up -d
 ```
 
 
