@@ -92,7 +92,7 @@ WORKDIR /usr/app
 
 
 
-Instalando todas as depêndencias do projeto encontradas em **package.json **
+Instalando todas as depêndencias do projeto encontradas em **package.json**
 
 ```dockerfile
 RUN npm install
@@ -297,6 +297,11 @@ Para parar o contâiner, apenas execute
 docker stop nginx-reactapp
 ```
 
+## Links
+[node]: https://hub.docker.com/_/node	"Official build of Node"
+[nginx]: https://hub.docker.com/_/nginx	"Official build of Nginx."
+[react]: https://create-react-app.dev/docs/getting-started	"Get Started with React."
+[docker]: https://www.docker.com/get-started	"Get Started with Docker."
 
 
 ## Informações
@@ -305,9 +310,3 @@ Marlon Brendo Ramos – [github/MarlonBrendonx](https://github.com/MarlonBrendon
 
 
 
-## Links
-
-[node]: https://hub.docker.com/_/node	"Official build of Node"
-[nginx]: https://hub.docker.com/_/nginx	"Official build of Nginx."
-[react]: https://create-react-app.dev/docs/getting-started	"Get Started with React."
-[docker]: https://www.docker.com/get-started	"Get Started with Docker."
